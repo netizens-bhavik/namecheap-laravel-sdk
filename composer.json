@@ -1,29 +1,29 @@
 {
-    "name": "josephjoberno/namecheap-laravel-sdk",
+    "name": "netizens-bhavik/namecheap-laravel-sdk",
     "description": "Laravel SDK for Namecheap API",
     "type": "library",
     "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "josephjoberno",
-            "email": "josephjoberno@email.com"
+            "name": "Bhavik Mistry",
+            "email": "bhavik.m@netizens.email"
         }
     ],
     "support": {
-        "issues": "https://github.com/josephjoberno/namecheap-laravel-sdk/issues",
-        "source": "https://github.com/josephjoberno/namecheap-laravel-sdk"
+        "issues": "https://github.com/netizens-bhavik/namecheap-laravel-sdk/issues",
+        "source": "https://github.com/netizens-bhavik/namecheap-laravel-sdk"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/josephjoberno/namecheap-laravel-sdk"
+            "url": "https://github.com/netizens-bhavik/namecheap-laravel-sdk"
         }
     ],
     "require": {
         "php": "^7.4|^8.0",
         "guzzlehttp/guzzle": "^7.0",
-        "illuminate/support": "^8.0|^9.0|^10.0"
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0|^13.0"
     },
     "autoload": {
         "psr-4": {
