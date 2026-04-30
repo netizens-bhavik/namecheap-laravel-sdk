@@ -2,7 +2,6 @@
     "name": "netizens-bhavik/namecheap-laravel-sdk",
     "description": "Laravel SDK for Namecheap API",
     "type": "library",
-    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
@@ -14,12 +13,6 @@
         "issues": "https://github.com/netizens-bhavik/namecheap-laravel-sdk/issues",
         "source": "https://github.com/netizens-bhavik/namecheap-laravel-sdk"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/netizens-bhavik/namecheap-laravel-sdk"
-        }
-    ],
     "require": {
         "php": "^7.4|^8.0",
         "guzzlehttp/guzzle": "^7.0",
